@@ -1,0 +1,15 @@
+obj-m := ex01_simple_module.o
+obj-m += ex02_simple_module_init.o
+obj-m += ex03_simple_module_exit.o
+
+#to add multiple .o file
+obj-m := ex0203_simple_module.o
+	ex0203_simple_module-objs := ex02_simple_module_init.o ex03_simple_module_exit.o
+
+obj-m := ex04_exporting_symbol.o
+obj-m += ex04_using_symbol.o
+
+obj-m := ex07_simple_char_drv.o
+
+
+obj-m := proc_example.o

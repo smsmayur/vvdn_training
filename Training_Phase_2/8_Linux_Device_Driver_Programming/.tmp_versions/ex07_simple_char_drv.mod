@@ -1,0 +1,3 @@
+/home/vvdn/Mayur_shankariya/Training_Phase_2/8_Linux_Device_Driver_Programming/ex07_simple_char_drv.ko
+/home/vvdn/Mayur_shankariya/Training_Phase_2/8_Linux_Device_Driver_Programming/ex07_simple_char_drv.o
+

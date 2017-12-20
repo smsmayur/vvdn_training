@@ -1,0 +1,3 @@
+/home/vvdn/Mayur_shankariya/Training_Phase_2/8_Linux_Device_Driver_Programming/excercise/ex01.ko
+/home/vvdn/Mayur_shankariya/Training_Phase_2/8_Linux_Device_Driver_Programming/excercise/ex01.o
+
